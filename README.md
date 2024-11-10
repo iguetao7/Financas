@@ -1,5 +1,5 @@
 # Financas
-Projeto feito com yfinance, pandas, matplotlib e openpyxl. Criado para analisar e monitorar o índice bovespa e carteira de investimentos nos últimos 360 dias.
+Projeto desenvolvido com yfinance, pandas, matplotlib e openpyxl. Criado para analisar e monitorar o índice bovespa e carteira de investimentos nos últimos 360 dias.
  
  Gráfico Ibovespa
  
